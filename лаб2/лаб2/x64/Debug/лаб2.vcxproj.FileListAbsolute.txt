@@ -1,0 +1,12 @@
+C:\Users\Ready2Go\source\repos\лаб2\лаб2\x64\Debug\лаб2.vcxproj.AssemblyReference.cache
+C:\Users\Ready2Go\source\repos\лаб2\лаб2\x64\Debug\лаб2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ready2Go\source\repos\лаб2\лаб2\x64\Debug\лаб2.MyForm.resources
+C:\Users\Ready2Go\source\repos\лаб2\лаб2\x64\Debug\лаб2.vcxproj.GenerateResource.cache
+C:\Users\Max\source\repos\лаб2\лаб2\x64\Debug\лаб2.vcxproj.AssemblyReference.cache
+C:\Users\Max\source\repos\лаб2\лаб2\x64\Debug\лаб2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Max\source\repos\лаб2\лаб2\x64\Debug\лаб2.MyForm.resources
+C:\Users\Max\source\repos\лаб2\лаб2\x64\Debug\лаб2.vcxproj.GenerateResource.cache
+C:\Users\Ready2Go\OneDrive\Робочий стіл\лаб2\лаб2\x64\Debug\лаб2.vcxproj.AssemblyReference.cache
+C:\Users\Ready2Go\OneDrive\Робочий стіл\лаб2\лаб2\x64\Debug\лаб2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ready2Go\OneDrive\Робочий стіл\лаб2\лаб2\x64\Debug\лаб2.MyForm.resources
+C:\Users\Ready2Go\OneDrive\Робочий стіл\лаб2\лаб2\x64\Debug\лаб2.vcxproj.GenerateResource.cache
